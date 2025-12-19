@@ -277,5 +277,21 @@
     "grade": "B",
     "last_updated": "2025-12-19 17:10 UTC",
     "submission_count": 1
+  },
+  "Aswieni_Udhayakumar": {
+    "student": "Aswieni_Udhayakumar",
+    "file_structure": 10,
+    "semantic_html": 18,
+    "functionality": 23,
+    "design": 17,
+    "responsive": 8,
+    "issues": [
+      "\u26a0\ufe0f No hover effects",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 76,
+    "grade": "C",
+    "last_updated": "2025-12-19 17:46 UTC",
+    "submission_count": 1
   }
 }
