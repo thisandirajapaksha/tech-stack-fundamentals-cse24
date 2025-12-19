@@ -1,1 +1,24 @@
-{}
+{
+  "Suhas_Diss": {
+    "student": "Suhas_Diss",
+    "file_structure": 5,
+    "functionality": 0,
+    "ui_design": 2,
+    "code_quality": 5,
+    "responsive": 0,
+    "issues": [
+      "\u274c No Reddit API fetch",
+      "\u274c No displayPosts function",
+      "\u26a0\ufe0f No loadPosts/search function",
+      "\u26a0\ufe0f No async handling",
+      "\u274c No error handling",
+      "\u274c No CSS grid layout",
+      "\u26a0\ufe0f No image/thumbnail handling",
+      "\u26a0\ufe0f No @media queries for mobile"
+    ],
+    "total": 12,
+    "grade": "F",
+    "last_updated": "2025-12-19 08:23 UTC",
+    "submission_count": 1
+  }
+}
