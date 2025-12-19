@@ -1,4 +1,4 @@
-# Tech Stack Fundamentals Workshops
+# Tech Stack Fundamentals Workshop
 
 ## Session Conductors
 
