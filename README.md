@@ -1,6 +1,6 @@
 # Tech Stack Fundamentals Workshops
 
-## 👨‍🏫 Session Conductors
+## Session Conductors
 
 | [![HimathX](https://github.com/HimathX.png?size=100)](https://github.com/HimathX) | [![SuhasDissa](https://github.com/SuhasDissa.png?size=100)](https://github.com/SuhasDissa) | [![NipunSGeeTH](https://github.com/NipunSGeeTH.png?size=100)](https://github.com/NipunSGeeTH) | [![Kalana-Pankaja](https://github.com/Kalana-Pankaja.png?size=100)](https://github.com/Kalana-Pankaja) |
 |:---:|:---:|:---:|:---:|
