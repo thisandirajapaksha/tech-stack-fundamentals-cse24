@@ -350,5 +350,23 @@
     "grade": "C",
     "last_updated": "2025-12-24 19:42 UTC",
     "submission_count": 1
+  },
+  "Vidura_Amunumullegama": {
+    "student": "Vidura_Amunumullegama",
+    "file_structure": 10,
+    "semantic_html": 20,
+    "functionality": 17,
+    "design": 9,
+    "responsive": 8,
+    "issues": [
+      "\u274c No form or labels",
+      "\u26a0\ufe0f No grid/flex layout",
+      "\u26a0\ufe0f No hover effects",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 64,
+    "grade": "D",
+    "last_updated": "2025-12-25 08:51 UTC",
+    "submission_count": 1
   }
 }
