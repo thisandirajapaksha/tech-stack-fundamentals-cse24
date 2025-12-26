@@ -2,8 +2,8 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-26%2003%3A33%20UTC-blue)
-![Submissions](https://img.shields.io/badge/Submissions-22-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-26%2015%3A52%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-23-green)
 
 ## 🎯 The Challenge
 Build a professional portfolio website showcasing your skills, projects, and background using semantic HTML and responsive CSS!
@@ -43,12 +43,13 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 | 14 | **portfolio-lahiru** | 70/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
 | 15 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
 | 16 | **Vidura_Amunumullegama** | 64/100 | 📝 D | 🔧 Keep Pushing | 2025-12-25 08:51 UTC |
-| 17 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
-| 18 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 19 | **Sithuka Jayawardhana** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-23 06:30 UTC |
-| 20 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 21 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 22 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
+| 17 | **Chameera_Akalanka** | 63/100 | 📝 D | 🔧 Keep Pushing | 2025-12-26 15:52 UTC |
+| 18 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
+| 19 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 20 | **Sithuka Jayawardhana** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-23 06:30 UTC |
+| 21 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 22 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 23 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
 
 ---
 
@@ -66,11 +67,11 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **Chameera_Akalanka** updated their portfolio → 63/100 (2025-12-26 15:52 UTC)
 - **Kamitha_Akash** updated their portfolio → 86/100 (2025-12-25 17:22 UTC)
 - **athishaya.j** updated their portfolio → 81/100 (2025-12-25 14:52 UTC)
 - **Isuru_Babarendage** updated their portfolio → 93/100 (2025-12-25 13:12 UTC)
 - **Sisiyuru_Wijenayake** updated their portfolio → 73/100 (2025-12-25 10:41 UTC)
-- **Vidura_Amunumullegama** updated their portfolio → 64/100 (2025-12-25 08:51 UTC)
 
 ---
 

@@ -410,5 +410,25 @@
     "grade": "B",
     "last_updated": "2025-12-25 17:22 UTC",
     "submission_count": 1
+  },
+  "Chameera_Akalanka": {
+    "student": "Chameera_Akalanka",
+    "file_structure": 7,
+    "semantic_html": 13,
+    "functionality": 10,
+    "design": 25,
+    "responsive": 8,
+    "issues": [
+      "\u26a0\ufe0f No profile photo in images/",
+      "\u274c No <main> tag",
+      "\u26a0\ufe0f No <article> tags for projects",
+      "\u274c No form or labels",
+      "\u26a0\ufe0f No details/summary (collapsible sections)",
+      "\u274c No media queries - not responsive"
+    ],
+    "total": 63,
+    "grade": "D",
+    "last_updated": "2025-12-26 15:52 UTC",
+    "submission_count": 1
   }
 }
