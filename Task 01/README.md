@@ -2,8 +2,8 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-27%2008%3A10%20UTC-blue)
-![Submissions](https://img.shields.io/badge/Submissions-23-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-28%2003%3A16%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-24-green)
 
 ## 🎯 The Challenge
 Build a professional portfolio website showcasing your skills, projects, and background using semantic HTML and responsive CSS!
@@ -32,24 +32,25 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 | 🥉 | **Induru_Adeesha** | 87/100 | ✨ B | 🥉 Rising Designer | 2025-12-19 08:28 UTC |
 | 4 | **Shaeshanth** | 86/100 | ✨ B | 💪 Skilled Developer | 2025-12-19 08:28 UTC |
 | 5 | **Kamitha_Akash** | 86/100 | ✨ B | 💪 Skilled Developer | 2025-12-25 17:22 UTC |
-| 6 | **athishaya.j** | 81/100 | ✨ B | 💪 Skilled Developer | 2025-12-25 14:52 UTC |
-| 7 | **chamath** | 78/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
-| 8 | **Aswieni_Udhayakumar** | 76/100 | 👌 C | 📈 Making Progress | 2025-12-19 17:46 UTC |
-| 9 | **Kalaippiriyan_Jeyaganesh** | 76/100 | 👌 C | 📈 Making Progress | 2025-12-23 11:22 UTC |
-| 10 | **Dihini** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
-| 11 | **Binura_Yeshan** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-24 19:42 UTC |
-| 12 | **Sisiyuru_Wijenayake** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-25 10:41 UTC |
-| 13 | **Dinisuru_Sangadith** | 72/100 | 👌 C | 📈 Making Progress | 2025-12-19 15:48 UTC |
-| 14 | **portfolio-lahiru** | 70/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
-| 15 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
-| 16 | **Vidura_Amunumullegama** | 64/100 | 📝 D | 🔧 Keep Pushing | 2025-12-25 08:51 UTC |
-| 17 | **Chameera_Akalanka** | 63/100 | 📝 D | 🔧 Keep Pushing | 2025-12-26 15:52 UTC |
-| 18 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
-| 19 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 20 | **Sithuka Jayawardhana** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-23 06:30 UTC |
-| 21 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 22 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 23 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
+| 6 | **Thisangi_Dewmini** | 83/100 | ✨ B | 💪 Skilled Developer | 2025-12-28 03:16 UTC |
+| 7 | **athishaya.j** | 81/100 | ✨ B | 💪 Skilled Developer | 2025-12-25 14:52 UTC |
+| 8 | **chamath** | 78/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
+| 9 | **Aswieni_Udhayakumar** | 76/100 | 👌 C | 📈 Making Progress | 2025-12-19 17:46 UTC |
+| 10 | **Kalaippiriyan_Jeyaganesh** | 76/100 | 👌 C | 📈 Making Progress | 2025-12-23 11:22 UTC |
+| 11 | **Dihini** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
+| 12 | **Binura_Yeshan** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-24 19:42 UTC |
+| 13 | **Sisiyuru_Wijenayake** | 73/100 | 👌 C | 📈 Making Progress | 2025-12-25 10:41 UTC |
+| 14 | **Dinisuru_Sangadith** | 72/100 | 👌 C | 📈 Making Progress | 2025-12-19 15:48 UTC |
+| 15 | **portfolio-lahiru** | 70/100 | 👌 C | 📈 Making Progress | 2025-12-19 08:28 UTC |
+| 16 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
+| 17 | **Vidura_Amunumullegama** | 64/100 | 📝 D | 🔧 Keep Pushing | 2025-12-25 08:51 UTC |
+| 18 | **Chameera_Akalanka** | 63/100 | 📝 D | 🔧 Keep Pushing | 2025-12-26 15:52 UTC |
+| 19 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
+| 20 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 21 | **Sithuka Jayawardhana** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-23 06:30 UTC |
+| 22 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 23 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 24 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
 
 ---
 
@@ -67,11 +68,11 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **Thisangi_Dewmini** updated their portfolio → 83/100 (2025-12-28 03:16 UTC)
 - **Chameera_Akalanka** updated their portfolio → 63/100 (2025-12-26 15:52 UTC)
 - **Kamitha_Akash** updated their portfolio → 86/100 (2025-12-25 17:22 UTC)
 - **athishaya.j** updated their portfolio → 81/100 (2025-12-25 14:52 UTC)
 - **Isuru_Babarendage** updated their portfolio → 93/100 (2025-12-25 13:12 UTC)
-- **Sisiyuru_Wijenayake** updated their portfolio → 73/100 (2025-12-25 10:41 UTC)
 
 ---
 
